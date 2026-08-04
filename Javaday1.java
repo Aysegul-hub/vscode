@@ -57,6 +57,7 @@ public class Javaday1 {
         System.out.println("Sonuç 6 : " + (10>>>2));
         System.out.println("Sonuç 6 : " + (10<<2));
         System.out.println("Sonuç 6 : " + (num1 < num2));
+        System.out.println("Abdullah Sefayı çok seviyorum!");
 
 
 
